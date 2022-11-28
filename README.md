@@ -71,6 +71,10 @@ git checkout HEAD <파일> [<파일>]
 ```
 git reset HEAD <파일> [<파일>]
 ```
+### 커밋 내용 되돌리기
+```
+git revert
+```
 ### 마지막 커밋 고치기
 ```
 git commit -m “<메시지>” --amend
